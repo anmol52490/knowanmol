@@ -1,6 +1,8 @@
 # Data Scientist
 
-##Education
+-Hi
 
+##Education
+-Hello
 ###Work Experience
-HiDevs
+-HiDevs
