@@ -38,7 +38,7 @@ A B.Tech student in Computer Science (Data Science) focused on developing robust
 * **Operational Insight:** Instead of manual, time-consuming code checks for security, style, or bugs, CodeSense leverages specialized AI agents that collaborate to perform reviews rapidly and efficiently, thereby accelerating the software development lifecycle.
 * **[Project Link](https://github.com/Med-Time/CodeSense.git)**
 
-#### **PersonAI: Your Custom Voice Assistant**
+#### **PersonAI: Custom Voice Assistant**
 
 * **What it is:** An AI voice assistant with multilingual capabilities, enabling users to create and interact with customized personas (e.g., Einstein, a Judge).
 * **Technological Foundation:** Built upon Google's powerful Gemini AI, it facilitates natural conversations and maintains context through chat memory, enhancing AI interactions to be more engaging and personalized.
