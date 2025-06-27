@@ -3,24 +3,24 @@
 ### **Profile Summary**
 A B.Tech student in Computer Science (Data Science) focused on developing robust engineering solutions to real-world problems. This portfolio specifically showcases projects leveraging cutting-edge technologies to automate tasks, personalize experiences, and drive innovation. While a strong foundation exists in diverse areas of computer science, the work presented here highlights a dedicated journey in building application-driven Generative AI and Agentic Systems.
 
+
+-----
+
+
 ### **I. Experience:**
 
 **Gen-AI Developer Intern** | HiDevs – Bengaluru, India
 *December 2024 – June 2025*
 
-Over six months, I built and scaled Generative AI solutions for an EdTech platform, focusing on personalized user experiences and automation.
 
-  * **EchoDeepak: The Personalized EdTech Chatbot**
+* **EchoDeepak: Personalized EdTech Chatbot**
+    * Developed an EdTech chatbot system providing personalized learning support to students. This system adapts its responses based on individual user needs, incorporates an AI-driven mechanism for self-assessing response quality, and generates explanatory diagrams to clarify complex topics.
 
-      * Built a smart chatbot that provides **personalized learning support** to students. It adapts its responses based on each user's unique needs, uses AI to judge the quality of its own answers, and can even generate helpful diagrams to explain complex topics. This makes learning truly personal and efficient.
+* **Lead Generation Multi-Agent System**
+    * Engineered a Multi-Agent system to automate the process of identifying and qualifying valuable leads. This system utilizes AI agents for data analysis and client identification, contributing to a **45% increase in marketing lead efficiency**.
 
-  * **Lead Generation Multi-Agent System**
-
-      * Automated the process of finding valuable leads for the company. This system uses AI agents to analyze data and identify the best potential clients, **boosting our marketing efficiency by 45%**. It's a great example of how AI can automate business tasks.
-
-  * **LinkedIn Post Generator**
-
-      * Created an AI tool that generates personalized LinkedIn posts for users within HiDevs ecosystem. It ensures the posts match the company's style and tone, helping users share their achievements effectively.
+* **LinkedIn Post Generator**
+    * Created an AI tool for generating personalized LinkedIn posts for users within the HiDevs ecosystem. The system ensures generated content aligns with the company's brand style and tone, facilitating professional communication.
 
 -----
 
@@ -56,7 +56,7 @@ Over six months, I built and scaled Generative AI solutions for an EdTech platfo
 * **Technical Implementation:** This project demonstrates a robust implementation of Retrieval-Augmented Generation (RAG). It integrates a specialized knowledge database (ChromaDB) with powerful language models (via Groq API and Hugging Face embeddings) to ensure all responses are *directly grounded in the provided information*, thereby delivering precise and trustworthy answers from its knowledge base.
 * **[Project Link](https://github.com/anmol52490/RAG.git)**
 
----
+
 -----
 
 ### **III. Technical Skills**
@@ -65,12 +65,5 @@ Over six months, I built and scaled Generative AI solutions for an EdTech platfo
   * **Programming:** Python, C, Java
   * **Web & Databases:** FastAPI, Streamlit, MongoDB, MySQL
   * **Tools:** Git, Docker, Jenkins
-
------
-
-### **IV. Education**
-
-**B.E. in Computer Science and Engineering (Data Science)** | BMS College Of Engineering – Bengaluru, India
-*2022*
 
 -----
