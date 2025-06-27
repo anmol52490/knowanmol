@@ -1,4 +1,4 @@
-# PORTFOLIO
+# GEN-AI PORTFOLIO
 
 ### **Profile Summary**
 A B.Tech student in Computer Science (Data Science) focused on developing robust engineering solutions to real-world problems. This portfolio specifically showcases projects leveraging cutting-edge technologies to automate tasks, personalize experiences, and drive innovation. While a strong foundation exists in diverse areas of computer science, the work presented here highlights a dedicated journey in building application-driven Generative AI and Agentic Systems.
